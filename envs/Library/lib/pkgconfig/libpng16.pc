@@ -1,0 +1,12 @@
+prefix=C:/Users/soumy/OneDrive/desktop/SN/envs/Library
+exec_prefix=C:/Users/soumy/OneDrive/desktop/SN/envs/Library
+libdir=C:/Users/soumy/OneDrive/desktop/SN/envs/Library/lib
+includedir=C:/Users/soumy/OneDrive/desktop/SN/envs/Library/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.39
+Requires.private: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: -lz
+Cflags: -I${includedir}

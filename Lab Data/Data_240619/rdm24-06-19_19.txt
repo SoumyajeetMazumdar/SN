@@ -1,0 +1,2 @@
+67888 800 0.0002 0 5 -3 0 -10 0 1500 0 180 
+von links nach rechts: Shots, Wavelength [nm],resolution[µs], start time [µs], time width [µs], Discriminator [mV, ch0..4], TrgLevel [mV], Laser Sync /mus, QSwitch/mus
